@@ -1,0 +1,7 @@
+{
+  "name": "knexjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Andr3sdosSantos <andres_santosbritoamaral@hotmail.com>",
+  "license": "MIT"
+}
